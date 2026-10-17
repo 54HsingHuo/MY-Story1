@@ -1,5 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"svActorMOVES2","classId":6,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"My_ActorS1","traits":[],"initialLevel":20,"maxLevel":99,"name":"星火","nickname":"太陽","note":"","profile":"沒有過去的記憶，知道醒來的地方是屬於自己靈魂的世界。"},
-{"id":2,"battlerName":"!svFire","characterIndex":4,"characterName":"!Flame","classId":9,"equips":[8,0,0,24,0],"faceIndex":1,"faceName":"My_ActorS1","traits":[{"code":31,"dataId":2,"value":1}],"initialLevel":50,"maxLevel":99,"name":"星星","nickname":"","note":"","profile":"星火靈魂的半身，有著部分世界的知識。"}
-]
